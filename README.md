@@ -68,8 +68,7 @@ Die Arbeit als Entwickler bereitet mir viel Freude, und ich setze meine Projekte
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+
 
 
 
@@ -92,6 +91,3 @@ Die Arbeit als Entwickler bereitet mir viel Freude, und ich setze meine Projekte
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
