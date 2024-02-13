@@ -36,9 +36,7 @@ Die Arbeit als Entwickler bereitet mir viel Freude, und ich setze meine Projekte
   
 
 - ❓ Zögern Sie nicht, mich zu kontaktieren.  
-  
-
-- ⚡ Fun fact: Meine Frau und ich haben gemeinsam ein Startup gegründet, und in meiner Freizeit widme ich mich leidenschaftlich den Herausforderungen und Erfolgen dieser unternehmerischen Reise.  
+    
 
 
 </td><td valign="top" width="50%">
